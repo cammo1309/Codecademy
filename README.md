@@ -13,7 +13,7 @@ Features
   - Grammar-Conscious Output: Correctly uses "a" or "an" based on whether the animal's name starts with a vowel.
 
 How It Works
-  The generator randomly selects components from predefined arrays of animals, body parts, and actions. It then combines these elements into a string describing the mythical creature. For example, it might output something like "A Horse with the wings of an Eagle that can breathe fire."
+  - The generator randomly selects components from predefined arrays of animals, body parts, and actions. It then combines these elements into a string describing the mythical creature. For example, it might output something like "A Horse with the wings of an Eagle that can breathe fire."
 
 Installation and Usage:
   This program is written in JavaScript and can be run in any JavaScript environment, such as a web browser or Node.js.
